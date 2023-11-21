@@ -1,1 +1,10 @@
  npx tailwindcss -i ./css/style.css -o ./css/output.css --watch 
+
+
+
+ git add filename
+ git commit -m "Message"
+ git add . ~
+ git commit -am "Message" ~
+ git push remote branch
+ git push ~
